@@ -1,0 +1,31 @@
+Pandas
+It is a software library written for the python programming      language for data manipulation and analysis.
+-used for working with data sets.
+-It has functions for analyzing, cleaning, exploring and manipulating data.
+-renowned for data wrangling and its ability to handle large datasets.
+
+NumPy
+It is a python library used for working with arrays.
+-used to create, manipulate and analyze NumPy arrays.
+-It excels in creating N-dimension data objects and performing mathematical operations on the array efficiently.
+-It uses less memory and storage space.
+
+TensorFlow
+It is a free and open source software library for machine learning and artificial intelligence.
+- used to develop models for various tasks including natural language processing, image recognition, handwriting recognition and different computational based simulations.
+
+Keras 
+It is an open source library that provides a python interface for artificial neural networks. It was an independent software but is now integrated into TensorFlow.
+-used to make the implementation of neural networks easy and allows developers to quickly prototype.
+-It provides an approachable, highly-productive interface for solving machine learning (ML) problems, with a focus on modern deep learning.
+
+Pytorch
+PyTorch is an open source, small part of a computer software which is based on Torch library. It  is a fully featured framework for building deep learning models.
+-used  in applications like image recognition and language processing. 
+-It is perfect for study and experimentation. It is ideal for research and small-scale projects. Flexibility makes PyTorch a beloved tool in the research community.
+
+sklearn
+scikit-learn is a free and open-source machine learning library for the Python programming language. It is a useful library for machine learning in Python.
+-It is used to build models 
+-It's simple and user friendly and provides a wide range of algorithms and tools for various machine learning tasks.
+
